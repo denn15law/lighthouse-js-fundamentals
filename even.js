@@ -4,4 +4,4 @@ const isEven = function (num) {
 
 
 console.log(isEven(10))
-console.log(isEven(11))
+console.log(isEven(11)) 
